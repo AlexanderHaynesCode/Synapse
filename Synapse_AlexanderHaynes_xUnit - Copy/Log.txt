@@ -1,0 +1,26 @@
+12/11/2024 3:03:26 PM   Alert sent for delivered item: X-Ray machine
+
+
+12/11/2024 3:07:46 PM   Alert sent for delivered item: X-Ray machine
+
+
+12/11/2024 3:07:55 PM   Alert sent for delivered item: X-Ray machine
+
+
+12/11/2024 3:08:02 PM   Alert sent for delivered item: X-Ray machine
+
+
+12/11/2024 3:23:39 PM   Error in IsItemDelivered(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at Synapse.OrdersExample.Program.IsItemDelivered(JToken item) in C:\Users\The Beash\Coding\Synapse_AlexanderHaynes_Proj\Program.cs:line 113
+
+
+12/11/2024 3:23:39 PM   Alert sent for delivered item: X-Ray machine
+
+
+12/11/2024 3:25:52 PM   Error in IsItemDelivered(): System.NullReferenceException: Object reference not set to an instance of an object.
+   at Synapse.OrdersExample.Program.IsItemDelivered(JToken item) in C:\Users\The Beash\Coding\Synapse_AlexanderHaynes_Proj\Program.cs:line 112
+
+
+12/11/2024 3:25:52 PM   Alert sent for delivered item: X-Ray machine
+
+
