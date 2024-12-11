@@ -1,4 +1,4 @@
-Synapse Technical Assesssment by Alexander Haynes
+Synapse Technical Assessment by Alexander Haynes
 -------------------------------------------------
 - This is a .NET 7 console app using xUnit for unit testing.
 - Data mocking is performed via RichardSzalay.MockHttp.
